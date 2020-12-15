@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\convencaoinfo10\source\repos\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache
